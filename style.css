@@ -70,6 +70,15 @@ h1 {
   color: black;
 }
 
+/* 576px / 16px = 36rem */
+@media (max-width:36rem) {
+  
+  html {
+    font-size: 50%;
+  }
+  
+}
+
 
 /*
 -----------------What is the difference between perspective and transform's perspective properties in CSS?
