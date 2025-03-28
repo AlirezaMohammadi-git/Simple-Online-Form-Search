@@ -27,7 +27,7 @@ ol {
 }
 
 .hl {
-background-color: yellow;
+  background-color: yellow;
 }
 
 
@@ -69,3 +69,15 @@ h1 {
   text-transform: capitalize;
   color: black;
 }
+
+
+/*
+-----------------What is the difference between perspective and transform's perspective properties in CSS?
+--the plain perspective attribute is what you usually use on a parent element to give multiple children the same perspective, while transform perspective would be used on a child element or an individual element to give it its own perspective.
+*/
+
+
+/*
+-----------How to use CSS perspective?
+--visit this beautiful explained article:https://3dtransforms.desandro.com/
+*/
